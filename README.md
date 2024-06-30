@@ -22,8 +22,8 @@ Before you begin, ensure you have the following installed on your local machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/user-management-app.git
-cd user-management-app
+git clone https://github.comspicychicken23/Lab3-WebTech.git
+cd Lab3-WebTech
 ```
 #### Running the Backend Server
 
